@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Hola Nat
 import rospy
 from pacman.msg import actions """se importan los mensajes que indican acciones que debe ejecutar el pacman"""
 from pacman.msg import pacmanPos """se importan los mensajes que indican acciones que debe ejecutar el pacman"""
